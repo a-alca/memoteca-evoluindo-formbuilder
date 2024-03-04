@@ -28,7 +28,8 @@ import { EditarPensamentoComponent } from './componentes/pensamentos/editar-pens
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    HttpClientModule
+    HttpClientModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
