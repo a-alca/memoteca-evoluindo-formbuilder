@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": "3",
+      "conteudo": "O bagulho é louco",
+      "autoria": "Eu",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Apareca querido",
+      "autoria": "eu",
+      "modelo": "modelo3",
+      "id": "4"
+    },
+    {
+      "conteudo": "criando pensamento e fazendo rota para pagina de pensamento com o novo pensamento adicionado this.router.navigate(['/listarPensamento'])",
+      "autoria": "router.navigate",
+      "modelo": "modelo2",
+      "id": "5"
+    }
+  ]
+}
