@@ -13,10 +13,16 @@
       "id": "4"
     },
     {
+      "id": "5",
       "conteudo": "criando pensamento e fazendo rota para pagina de pensamento com o novo pensamento adicionado this.router.navigate(['/listarPensamento'])",
       "autoria": "router.navigate",
-      "modelo": "modelo2",
-      "id": "5"
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Teste",
+      "autoria": "André Alcântara Santos",
+      "modelo": "modelo1",
+      "id": "ggsGVod"
     }
   ]
 }
