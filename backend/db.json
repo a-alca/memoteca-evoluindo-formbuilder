@@ -5,13 +5,13 @@
       "conteudo": "O bagulho é louco",
       "autoria": "Eu",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "Apareca querido",
       "autoria": "eu",
       "modelo": "modelo3",
-      "favorito": true,
+      "favorito": false,
       "id": "4"
     },
     {
@@ -19,13 +19,13 @@
       "conteudo": "criando pensamento e fazendo rota para pagina de pensamento com o novo pensamento adicionado this.router.navigate(['/listarPensamento'])",
       "autoria": "router.navigate",
       "modelo": "modelo2",
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "Teste",
       "autoria": "André Alcântara Santos",
       "modelo": "modelo1",
-      "favorito": true,
+      "favorito": false,
       "id": "ggsGVod"
     },
     {
@@ -39,7 +39,7 @@
       "conteudo": "Nunca se esqueça de quem você é, porque é certo que o mundo não se lembrará. Faça disso sua força. Assim, não poderá ser nunca a sua fraqueza. Arme-se com esta lembrança, e ela nunca poderá ser usada para magoá-lo.",
       "autoria": "GRRM",
       "modelo": "modelo2",
-      "favorito": false,
+      "favorito": true,
       "id": "Y0rtyia"
     },
     {
@@ -53,21 +53,21 @@
       "conteudo": "The grey sheep have closed their eyes, but the mastiff sees the truth. Old powers waken. Shadows stir. An age of wonder and terror will soon be upon us, an age for gods and heroes.",
       "autoria": "GRRM",
       "modelo": "modelo1",
-      "favorito": false,
+      "favorito": true,
       "id": "8LtiX3D"
     },
     {
       "conteudo": "Fear is what keeps a man alive in this world of treachery and deceit.",
       "autoria": "GRRM",
       "modelo": "modelo3",
-      "favorito": false,
+      "favorito": true,
       "id": "hAj0KHv"
     },
     {
       "conteudo": "Aren’t you afraid? The gods might send you down to some terrible hell for all the evil you’ve done.” “What evil?” He laughed. “What gods",
       "autoria": "GRRM",
       "modelo": "modelo3",
-      "favorito": false,
+      "favorito": true,
       "id": "cM2JP81"
     },
     {
@@ -81,14 +81,14 @@
       "conteudo": "My trees, they said, you can’t eat them apples. My stream, you can’t fish here. My wood, you’re not t’ hunt. My earth, my water, my castle, my daughter, keep your hands away or I’ll chop ’em off, but maybe if you kneel t’ me I’ll let you have a sniff.",
       "autoria": "GRRM",
       "modelo": "modelo3",
-      "favorito": false,
+      "favorito": true,
       "id": "nCUW3kr"
     },
     {
       "conteudo": "Listen guys: hash words won't solve problems. Actions will!",
       "autoria": "Aang",
       "modelo": "modelo3",
-      "favorito": false,
+      "favorito": true,
       "id": "vBRGV8z"
     }
   ]
